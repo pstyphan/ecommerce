@@ -1,0 +1,18 @@
+[2016-05-13 04:49:46,810][INFO ][node                     ] [Tombstone] version[2.3.2], pid[2072], build[b9e4a6a/2016-04-21T16:03:47Z]
+[2016-05-13 04:49:46,818][INFO ][node                     ] [Tombstone] initializing ...
+[2016-05-13 04:49:49,003][INFO ][plugins                  ] [Tombstone] modules [reindex, lang-expression, lang-groovy], plugins [], sites []
+[2016-05-13 04:49:49,175][INFO ][env                      ] [Tombstone] using [1] data paths, mounts [[New Volume (F:)]], net usable_space [235.4gb], net total_space [456.9gb], spins? [unknown], types [NTFS]
+[2016-05-13 04:49:49,179][INFO ][env                      ] [Tombstone] heap size [910.5mb], compressed ordinary object pointers [true]
+[2016-05-13 04:50:18,891][INFO ][node                     ] [Tombstone] initialized
+[2016-05-13 04:50:18,893][INFO ][node                     ] [Tombstone] starting ...
+[2016-05-13 04:50:19,711][INFO ][transport                ] [Tombstone] publish_address {127.0.0.1:9300}, bound_addresses {127.0.0.1:9300}, {[::1]:9300}
+[2016-05-13 04:50:19,727][INFO ][discovery                ] [Tombstone] elasticsearch/BwKYRkSuRg-I-EhQ19iOCA
+[2016-05-13 04:50:23,846][INFO ][cluster.service          ] [Tombstone] new_master {Tombstone}{BwKYRkSuRg-I-EhQ19iOCA}{127.0.0.1}{127.0.0.1:9300}, reason: zen-disco-join(elected_as_master, [0] joins received)
+[2016-05-13 04:50:24,190][INFO ][http                     ] [Tombstone] publish_address {127.0.0.1:9200}, bound_addresses {127.0.0.1:9200}, {[::1]:9200}
+[2016-05-13 04:50:24,193][INFO ][node                     ] [Tombstone] started
+[2016-05-13 04:50:24,206][INFO ][gateway                  ] [Tombstone] recovered [1] indices into cluster_state
+[2016-05-13 04:50:26,001][INFO ][cluster.routing.allocation] [Tombstone] Cluster health status changed from [RED] to [YELLOW] (reason: [shards started [[products][0]] ...]).
+[2016-05-13 05:38:53,430][INFO ][node                     ] [Tombstone] stopping ...
+[2016-05-13 05:38:53,618][INFO ][node                     ] [Tombstone] stopped
+[2016-05-13 05:38:53,620][INFO ][node                     ] [Tombstone] closing ...
+[2016-05-13 05:38:53,634][INFO ][node                     ] [Tombstone] closed

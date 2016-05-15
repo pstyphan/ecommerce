@@ -1,0 +1,18 @@
+[2016-05-14 03:52:33,334][INFO ][node                     ] [Victor Creed] version[2.3.2], pid[7340], build[b9e4a6a/2016-04-21T16:03:47Z]
+[2016-05-14 03:52:33,341][INFO ][node                     ] [Victor Creed] initializing ...
+[2016-05-14 03:52:35,595][INFO ][plugins                  ] [Victor Creed] modules [reindex, lang-expression, lang-groovy], plugins [], sites []
+[2016-05-14 03:52:35,712][INFO ][env                      ] [Victor Creed] using [1] data paths, mounts [[New Volume (F:)]], net usable_space [235.4gb], net total_space [456.9gb], spins? [unknown], types [NTFS]
+[2016-05-14 03:52:35,716][INFO ][env                      ] [Victor Creed] heap size [910.5mb], compressed ordinary object pointers [true]
+[2016-05-14 03:52:44,858][INFO ][node                     ] [Victor Creed] initialized
+[2016-05-14 03:52:44,859][INFO ][node                     ] [Victor Creed] starting ...
+[2016-05-14 03:52:45,735][INFO ][transport                ] [Victor Creed] publish_address {127.0.0.1:9300}, bound_addresses {127.0.0.1:9300}, {[::1]:9300}
+[2016-05-14 03:52:45,741][INFO ][discovery                ] [Victor Creed] elasticsearch/DSIVra7ZTquxVNDUQilUGQ
+[2016-05-14 03:52:49,842][INFO ][cluster.service          ] [Victor Creed] new_master {Victor Creed}{DSIVra7ZTquxVNDUQilUGQ}{127.0.0.1}{127.0.0.1:9300}, reason: zen-disco-join(elected_as_master, [0] joins received)
+[2016-05-14 03:52:50,239][INFO ][http                     ] [Victor Creed] publish_address {127.0.0.1:9200}, bound_addresses {127.0.0.1:9200}, {[::1]:9200}
+[2016-05-14 03:52:50,241][INFO ][node                     ] [Victor Creed] started
+[2016-05-14 03:52:50,306][INFO ][gateway                  ] [Victor Creed] recovered [1] indices into cluster_state
+[2016-05-14 03:52:51,922][INFO ][cluster.routing.allocation] [Victor Creed] Cluster health status changed from [RED] to [YELLOW] (reason: [shards started [[products][4], [products][4]] ...]).
+[2016-05-14 05:52:03,259][INFO ][node                     ] [Victor Creed] stopping ...
+[2016-05-14 05:52:03,492][INFO ][node                     ] [Victor Creed] stopped
+[2016-05-14 05:52:03,494][INFO ][node                     ] [Victor Creed] closing ...
+[2016-05-14 05:52:03,532][INFO ][node                     ] [Victor Creed] closed

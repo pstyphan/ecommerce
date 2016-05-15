@@ -1,0 +1,54 @@
+[2016-05-16 00:43:32,367][INFO ][node                     ] [Alaris] version[2.3.2], pid[9376], build[b9e4a6a/2016-04-21T16:03:47Z]
+[2016-05-16 00:43:32,383][INFO ][node                     ] [Alaris] initializing ...
+[2016-05-16 00:43:35,757][INFO ][plugins                  ] [Alaris] modules [reindex, lang-expression, lang-groovy], plugins [], sites []
+[2016-05-16 00:43:35,976][INFO ][env                      ] [Alaris] using [1] data paths, mounts [[New Volume (F:)]], net usable_space [235.4gb], net total_space [456.9gb], spins? [unknown], types [NTFS]
+[2016-05-16 00:43:35,998][INFO ][env                      ] [Alaris] heap size [910.5mb], compressed ordinary object pointers [true]
+[2016-05-16 00:43:48,625][INFO ][node                     ] [Alaris] initialized
+[2016-05-16 00:43:48,625][INFO ][node                     ] [Alaris] starting ...
+[2016-05-16 00:43:49,660][INFO ][transport                ] [Alaris] publish_address {127.0.0.1:9300}, bound_addresses {127.0.0.1:9300}, {[::1]:9300}
+[2016-05-16 00:43:49,691][INFO ][discovery                ] [Alaris] elasticsearch/yuXedzIYRS-Xu1z1DUuqKA
+[2016-05-16 00:43:53,806][INFO ][cluster.service          ] [Alaris] new_master {Alaris}{yuXedzIYRS-Xu1z1DUuqKA}{127.0.0.1}{127.0.0.1:9300}, reason: zen-disco-join(elected_as_master, [0] joins received)
+[2016-05-16 00:43:54,297][INFO ][http                     ] [Alaris] publish_address {127.0.0.1:9200}, bound_addresses {127.0.0.1:9200}, {[::1]:9200}
+[2016-05-16 00:43:54,313][INFO ][node                     ] [Alaris] started
+[2016-05-16 00:43:54,429][INFO ][gateway                  ] [Alaris] recovered [1] indices into cluster_state
+[2016-05-16 00:43:56,399][INFO ][cluster.routing.allocation] [Alaris] Cluster health status changed from [RED] to [YELLOW] (reason: [shards started [[products][4]] ...]).
+[2016-05-16 01:08:05,494][INFO ][node                     ] [Alaris] stopping ...
+[2016-05-16 01:08:06,269][INFO ][node                     ] [Alaris] stopped
+[2016-05-16 01:08:06,271][INFO ][node                     ] [Alaris] closing ...
+[2016-05-16 01:08:06,339][INFO ][node                     ] [Alaris] closed
+[2016-05-16 01:09:32,054][INFO ][node                     ] [Fantomex] version[2.3.2], pid[2816], build[b9e4a6a/2016-04-21T16:03:47Z]
+[2016-05-16 01:09:32,058][INFO ][node                     ] [Fantomex] initializing ...
+[2016-05-16 01:09:43,299][INFO ][plugins                  ] [Fantomex] modules [reindex, lang-expression, lang-groovy], plugins [], sites []
+[2016-05-16 01:09:46,709][INFO ][env                      ] [Fantomex] using [1] data paths, mounts [[New Volume (F:)]], net usable_space [235.4gb], net total_space [456.9gb], spins? [unknown], types [NTFS]
+[2016-05-16 01:09:46,717][INFO ][env                      ] [Fantomex] heap size [910.5mb], compressed ordinary object pointers [true]
+[2016-05-16 01:10:28,319][INFO ][node                     ] [Fantomex] initialized
+[2016-05-16 01:10:28,322][INFO ][node                     ] [Fantomex] starting ...
+[2016-05-16 01:10:29,427][INFO ][transport                ] [Fantomex] publish_address {127.0.0.1:9300}, bound_addresses {127.0.0.1:9300}, {[::1]:9300}
+[2016-05-16 01:10:29,459][INFO ][discovery                ] [Fantomex] elasticsearch/CjIHeiQnQuKKlIGsnTIPpg
+[2016-05-16 01:10:33,623][INFO ][cluster.service          ] [Fantomex] new_master {Fantomex}{CjIHeiQnQuKKlIGsnTIPpg}{127.0.0.1}{127.0.0.1:9300}, reason: zen-disco-join(elected_as_master, [0] joins received)
+[2016-05-16 01:10:34,126][INFO ][http                     ] [Fantomex] publish_address {127.0.0.1:9200}, bound_addresses {127.0.0.1:9200}, {[::1]:9200}
+[2016-05-16 01:10:34,132][INFO ][node                     ] [Fantomex] started
+[2016-05-16 01:10:34,194][INFO ][gateway                  ] [Fantomex] recovered [1] indices into cluster_state
+[2016-05-16 01:10:38,375][INFO ][cluster.routing.allocation] [Fantomex] Cluster health status changed from [RED] to [YELLOW] (reason: [shards started [[products][4]] ...]).
+[2016-05-16 01:38:41,979][INFO ][node                     ] [Fantomex] stopping ...
+[2016-05-16 01:38:42,357][INFO ][node                     ] [Fantomex] stopped
+[2016-05-16 01:38:42,360][INFO ][node                     ] [Fantomex] closing ...
+[2016-05-16 01:38:42,407][INFO ][node                     ] [Fantomex] closed
+[2016-05-16 01:53:23,169][INFO ][node                     ] [Adrenazon] version[2.3.2], pid[2760], build[b9e4a6a/2016-04-21T16:03:47Z]
+[2016-05-16 01:53:23,198][INFO ][node                     ] [Adrenazon] initializing ...
+[2016-05-16 01:53:28,514][INFO ][plugins                  ] [Adrenazon] modules [reindex, lang-expression, lang-groovy], plugins [], sites []
+[2016-05-16 01:53:29,010][INFO ][env                      ] [Adrenazon] using [1] data paths, mounts [[New Volume (F:)]], net usable_space [235.4gb], net total_space [456.9gb], spins? [unknown], types [NTFS]
+[2016-05-16 01:53:29,014][INFO ][env                      ] [Adrenazon] heap size [910.5mb], compressed ordinary object pointers [true]
+[2016-05-16 01:53:55,265][INFO ][node                     ] [Adrenazon] initialized
+[2016-05-16 01:53:55,267][INFO ][node                     ] [Adrenazon] starting ...
+[2016-05-16 01:53:56,411][INFO ][transport                ] [Adrenazon] publish_address {127.0.0.1:9300}, bound_addresses {127.0.0.1:9300}, {[::1]:9300}
+[2016-05-16 01:53:56,472][INFO ][discovery                ] [Adrenazon] elasticsearch/az6z5JX0TeuPJqMheh5CZw
+[2016-05-16 01:54:00,582][INFO ][cluster.service          ] [Adrenazon] new_master {Adrenazon}{az6z5JX0TeuPJqMheh5CZw}{127.0.0.1}{127.0.0.1:9300}, reason: zen-disco-join(elected_as_master, [0] joins received)
+[2016-05-16 01:54:00,921][INFO ][http                     ] [Adrenazon] publish_address {127.0.0.1:9200}, bound_addresses {127.0.0.1:9200}, {[::1]:9200}
+[2016-05-16 01:54:00,925][INFO ][node                     ] [Adrenazon] started
+[2016-05-16 01:54:01,596][INFO ][gateway                  ] [Adrenazon] recovered [1] indices into cluster_state
+[2016-05-16 01:54:04,511][INFO ][cluster.routing.allocation] [Adrenazon] Cluster health status changed from [RED] to [YELLOW] (reason: [shards started [[products][1]] ...]).
+[2016-05-16 02:11:54,607][INFO ][node                     ] [Adrenazon] stopping ...
+[2016-05-16 02:11:54,993][INFO ][node                     ] [Adrenazon] stopped
+[2016-05-16 02:11:54,993][INFO ][node                     ] [Adrenazon] closing ...
+[2016-05-16 02:11:55,193][INFO ][node                     ] [Adrenazon] closed
